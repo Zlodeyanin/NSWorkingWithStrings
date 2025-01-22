@@ -6,7 +6,9 @@ namespace NSWorkingWithStrings
     {
         static void Main(string[] args)
         {
-            string name, zodiacSign, workplace;
+            string name;
+            string zodiacSign;
+            string workplace;
             int age;
             Console.Write("Ваше имя: ");
             name = Console.ReadLine();
